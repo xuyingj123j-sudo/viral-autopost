@@ -12,7 +12,7 @@
 
 ## 安装：可以让 Claude 带着你做
 
-1. 在 GitHub 模板页面点 **Use this template → Create a new repository**，建议选 **Private**。待发帖子和拆解记录会提交到仓库，公开仓库别人能提前看到。私有仓库每月有免费 Actions 额度；每小时检查一次通常足够本项目，是否够用取决于运行耗时及同账号其他工作流，见 [Actions 额度](https://docs.github.com/en/billing/concepts/product-billing/github-actions)。维护者需先把本项目发布并启用 Template repository；当前本地版本没有 GitHub 远端。
+1. 在 GitHub 模板页面点 **Use this template → Create a new repository**，建议选 **Private**。待发帖子和拆解记录会提交到仓库，公开仓库别人能提前看到。私有仓库每月有免费 Actions 额度；每小时检查一次通常足够本项目，是否够用取决于运行耗时及同账号其他工作流，见 [Actions 额度](https://docs.github.com/en/billing/concepts/product-billing/github-actions)。
 2. 把自己的新仓库 clone 到电脑。可以对 Claude 说「把我的这个仓库 clone 下来，并安装技能」。把整个 skill/viral-autopost 文件夹复制到：
    - Windows：%USERPROFILE%\.claude\skills\viral-autopost
    - macOS：~/.claude/skills/viral-autopost
